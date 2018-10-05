@@ -1,0 +1,36 @@
+.headline{
+	font-weight: bold;
+	text-align: center;	
+}
+
+hr{
+	border-color:#fffdfd55;
+}
+
+.smallHead{
+	color: red;
+	size: 40px;
+	padding-left: 40px;
+}
+
+#mainHeading{
+	text-align: center;
+}
+
+
+#fashionTips{
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.social{
+	text-align: center;
+	padding-top: 25px;
+}
+
+.social a img{
+	border-radius: 50%;
+	max-width: 3%;
+	max-height: 5%;
+}
+
